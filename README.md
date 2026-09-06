@@ -7,7 +7,7 @@ analyses that show off Redis's data structures.
 
 ## Team members
 
-- *(add team member names here)*
+- *Kwadwo Owusu*
 
 ## Description
 
